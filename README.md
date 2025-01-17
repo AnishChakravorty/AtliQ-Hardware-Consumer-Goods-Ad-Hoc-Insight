@@ -1,5 +1,7 @@
 # AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights
 
+Video Presentation Link: [Link](https://youtu.be/S_fMR_bAx4U?si=0cexFKXLVePSiCsF)
+
 ## Table of Contents
 
 1. [Project Overview and Problem Statement](#project-overview-and-problem-statement)
